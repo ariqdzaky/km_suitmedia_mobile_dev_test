@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+##Screenshot and Build (Android apk)
+
+- Screenshot (https://drive.google.com/drive/folders/1MeO_KBeYf8SZakex5-u6ogt3eHhb3rla?usp=sharing)
+- Build [Android apk] (https://drive.google.com/drive/folders/1PfuUa3cqjlHWbwDoXVU_8ir4P5RIyT77?usp=sharing)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
