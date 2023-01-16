@@ -4,8 +4,10 @@ A new Flutter project.
 
 ## Screenshot and Build (Android apk)
 
-- [Screenshot](https://drive.google.com/drive/folders/1MeO_KBeYf8SZakex5-u6ogt3eHhb3rla?usp=sharing)
-- [Build (Android apk)](https://drive.google.com/drive/folders/1PfuUa3cqjlHWbwDoXVU_8ir4P5RIyT77?usp=sharing)
+- [Screenshot - Drive](https://drive.google.com/drive/folders/1MeO_KBeYf8SZakex5-u6ogt3eHhb3rla?usp=sharing)
+- [Screenshot - Github Repo](https://github.com/ariqdzaky/km_suitmedia_mobile_dev_test/tree/main/Screenshot)
+- [Build (Android apk) - Drive](https://drive.google.com/drive/folders/1PfuUa3cqjlHWbwDoXVU_8ir4P5RIyT77?usp=sharing)
+- [Build (Android apk) - Github Repo](https://github.com/ariqdzaky/km_suitmedia_mobile_dev_test/tree/main/build)
 
 ## Getting Started
 
